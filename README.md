@@ -29,7 +29,7 @@ This project helps in understanding how to build responsive and flexible layouts
 1. Clone the repository
 
    ```
-   git clone [https://github.com/your-username/udemy-homepage-clone.git](https://sri-vatsann.github.io/Udemy-Clone/)
+  https://sri-vatsann.github.io/Udemy-Clone/
    ```
 2. Open `index.html` in your browser
 
